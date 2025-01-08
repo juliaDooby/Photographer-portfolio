@@ -7,8 +7,8 @@
   <a href="https://juliadooby.github.io/Photographer-portfolio/"><strong>➥Demo</strong></a>
 
 <div align="center"><img src="https://github.com/juliaDooby/Photographer-portfolio/blob/main/Ptotogr_1.JPG" width="100%" height="20%"></img></div>
-<div align="center"><img src="https://github.com/juliaDooby/Photographer-portfolio/blob/main/Ptotogr_2.JPG" width="100%" height="20%"></img></div>
-<div align="center"><img src="https://github.com/juliaDooby/Photographer-portfolio/blob/main/Ptotogr_3.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Photographer-portfolio/blob/main/Photogr_2.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Photographer-portfolio/blob/main/Photogr_3.JPG" width="100%" height="20%"></img></div>
 
 ---
 
